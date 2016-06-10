@@ -4,7 +4,7 @@
   <body class="{{ page.body_class }}">
     {{ content }}
     {{ if site.logo}}
-    <a href="{{ site.baseurl | prepend: site.url }}" id="blog_badge">
+    <a href="{{ site.url }}/about" id="blog_badge">
       <span style="background-image: url('{{ site.logo }}')">{{ site.name }}</span>
     </a>
     {{/if}}

@@ -5,8 +5,7 @@ image: https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/12410565_1005524036178134_2
 video: false
 ---
 
-So, this is a new seperate website to my very code and technology heavy bloger hosted site. Most content will be on
-the various social media links below but some long form blog posts may appear here.
+This is the drunk fist website. Most content will be on the various social media links below but some long form blog posts may appear here.
 
 * [Facebook](https://www.facebook.com/thedrunkfist)
 * [Twitter](https://www.twitter.com/drunkyfist)

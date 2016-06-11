@@ -7,7 +7,7 @@ description: >
 url: "https://solrevdev.github.io/thedrunkfist"
 twitter_username: drunkyfist
 github_username:  solrevdev
-baseurl: '/thedrunkfist'
+baseurl: ''
 permalink: pretty
 paginate: 5
 

@@ -9,6 +9,6 @@ This is the drunk fist website. Most content will be on the various social media
 
 * [Facebook](https://www.facebook.com/thedrunkfist)
 * [Twitter](https://www.twitter.com/drunkyfist)
-* [Instagram](https://www.instagram.com/solrevdev)
+* [Instagram](https://www.instagram.com/thedrunkfist/)
 
 Cheers!

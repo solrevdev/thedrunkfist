@@ -23,7 +23,7 @@ Part of this progress has included my new diet, weight loss and interest in Boxi
 **Why?**
 
 
-Well, I have a couple of websites and blogs and main one is hosted on blogger and has years of content and lives at [http://www.solrevdev.com/](http://www.solrevdev.com/) 
+Well, I have a couple of websites and blogs and the main one is hosted on blogger and has years of content and lives at [http://www.solrevdev.com/](http://www.solrevdev.com/) 
 
 
 It is very technical in nature and has been live for quite a long time and eventually I will migrate that away from the ageing blogger eco-system to a Github-hosted blog run from Jekyll as is this one is.  

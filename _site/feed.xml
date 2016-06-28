@@ -4,28 +4,41 @@
     <title>The Drunk Fist</title>
     <description>The drunk fist is my progress from a drunken developer into a full time carer who has stopped smoking, stopped drinking and started to take up boxing, muay thai, bjj, mma and generally just trying to be better.
 </description>
-    <link>https://solrevdev.github.io/thedrunkfist/</link>
-    <atom:link href="https://solrevdev.github.io/thedrunkfist/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Jun 2016 12:01:01 +0100</pubDate>
-    <lastBuildDate>Fri, 10 Jun 2016 12:01:01 +0100</lastBuildDate>
+    <link>http://thedrunkfist.com/</link>
+    <atom:link href="http://thedrunkfist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Jun 2016 01:43:39 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 01:43:39 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>The drunk fist website</title>
-        <description>&lt;p&gt;So, this is a new seperate website to my very code and technology heavy bloger hosted site. Most content will be on
-the various social media links below but some long form blog posts may appear here.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;What?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/thedrunkfist&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.twitter.com/drunkyfist&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/solrevdev&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;So, The name drunk fist comes from the name of a test account I setup to test the Facebook Developer API toolkit. In layman’s terms, it was an account I setup for a work project years ago.&lt;/p&gt;
 
-&lt;p&gt;Cheers!&lt;/p&gt;
+&lt;p&gt;The name ‘Drunk fist’ came from an old Kung Fu movie I saw and I liked the name and I decided to re-use it to start to blog about all things diet, nutrition, health and fitness. Basically anything interesting I find that’s not code related and too long to just share on social media.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Who?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am at the time of writing this blog post a 41-year-old man from Oxfordshire in the UK and have transitioned from being a full-time sedentary Software Developer and DevOps guy into being a full-time carer for my elderly mother and my brother who had a stroke a while back.&lt;/p&gt;
+
+&lt;p&gt;Part of this progress has included my new diet, weight loss and interest in Boxing, Muay Thai, Brazillian Jui Jitsu, MMA and Kettlebells and generally just trying to navigate my middle years while being as fit and healthy in mind and body as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, I have a couple of websites and blogs and main one is hosted on blogger and has years of content and lives at &lt;a href=&quot;http://www.solrevdev.com/&quot;&gt;http://www.solrevdev.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It is very technical in nature and has been live for quite a long time and eventually I will migrate that away from the ageing blogger eco-system to a Github-hosted blog run from Jekyll as is this one is.&lt;/p&gt;
+
+&lt;p&gt;In fact, the boilerplate site is ready for the content to be imported to this location &lt;a href=&quot;http://solrevdev.github.io/&quot;&gt;http://solrevdev.github.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So, as well as programming, system administration, DevOps and all things technical my relatively new pursuits are health and fitness and I have various social media accounts that are plotting my progress in Boxing, Muay Thai, Brazillian Jui Jitsu, MMA (mixed martial arts) and Kettlebell training.&lt;/p&gt;
+
+&lt;p&gt;While social media such as Facebook, Twitter and Instagram are great for short form content I wanted a website and blog where  longer form posts about my interests and progress could live and well, this is it.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 00:00:00 +0100</pubDate>
-        <link>https://solrevdev.github.io/thedrunkfist/2016/06/10/the-drunk-fist-website/</link>
-        <guid isPermaLink="true">https://solrevdev.github.io/thedrunkfist/2016/06/10/the-drunk-fist-website/</guid>
+        <link>http://thedrunkfist.com/2016/06/10/the-drunk-fist-website/</link>
+        <guid isPermaLink="true">http://thedrunkfist.com/2016/06/10/the-drunk-fist-website/</guid>
         
         
       </item>

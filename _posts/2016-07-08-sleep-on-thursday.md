@@ -10,4 +10,4 @@ Sleep matters. No really it does. I have had issues with sleep for years now but
 
 It is a two way thing too. A recent newsletter I received from Take Action Personal Training pointed this out and ill update this post with more stats or post again with some proper references. 
 
-Anyway, i feel rested and ready to start the day. 
+Anyway, i feel rested and ready to start the day.

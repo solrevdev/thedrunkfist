@@ -2,9 +2,9 @@
 layout: post
 title: "Sleep on a Thursday"
 tags:sleep insomnia muaythai training 
+image: http://static.thedrunkfist.com.s3.amazonaws.com/blog/gyroscope/2016-07-08-sleep-data_1.jpg
+video: false
 ---
-
-![alt text](http://static.thedrunkfist.com.s3.amazonaws.com/blog/gyroscope/2016-07-08-sleep-data_1.jpg "Sleep graph from Gyroscope All")
 
 Sleep matters. No really it does. I have had issues with sleep for years now but my recent training in Muay Thai, BJJ and Boxing added to my Kettlebell workouts have really helped. 
 

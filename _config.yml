@@ -1,19 +1,53 @@
-title: "The Drunk Fist"
-logo: https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/12924327_1055493701181167_8864637288132645323_n.jpg?oh=e23da680e79c14003b0e75cb20a7a47e&oe=5804AE4F
-email: john@thedrunkfist.com
+# Plugins
+gems:
+  - github-pages
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+
+# Dependencies
+highlighter: rouge
+markdown: kramdown
+
+# Permalinks
+excerpt_separator: ''
+permalink:         pretty
+
+# Setup
+title:            'The Drunk Fist'
+logo:             'https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/12924327_1055493701181167_8864637288132645323_n.jpg?oh=e23da680e79c14003b0e75cb20a7a47e&oe=5804AE4F'
 description: >
   The drunk fist is my progress from a drunken developer into a full time carer who has stopped smoking, stopped
   drinking and started to take up boxing, muay thai, bjj, mma and generally just trying to be better.
-url: "http://thedrunkfist.com"
-twitter_username: drunkyfist
-github_username:  solrevdev
-baseurl: ""
-permalink: pretty
+url:              'http://thedrunkfist.com'
+baseurl:          /
+
+
+# Contacts
+author:
+  name:           'John Smith'
+  url:            'http://thedrunkfist.com/about/'
+  email:          "john@thedrunkfist.com"
+  github:         'https://github.com/solrevdev/thedrunkfist'
+  facebook:       'https://www.facebook.com/thedrunkfist'
+  instagram:      'https://www.instagram.com/thedrunkfist'
+  twitter:        'https://twitter.com/drunkyfist'
+
+email:            'john@thedrunkfist.com'
+twitter_username: 'drunkyfist'
+github_username:  'solrevdev'
+
+# Outputting
 paginate: 5
 
-markdown: kramdown
-highlighter: rouge
+# Custom vars
+version:          '2.1.0'
 
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
+github:
+  repo:           'https://github.com/solrevdev/thedrunkfist'
+
+exclude: ['Rakefile', 'vendor']
+
+# Social Sharing
+facebook_app_id: '1592824447677017'

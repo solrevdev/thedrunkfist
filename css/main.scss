@@ -595,9 +595,9 @@ body.user article .readmore {
   border-bottom: 1px solid #ededee;
   box-shadow: white 0 0 14px;
   white-space: nowrap;
-  opacity: 0;
-  transition-property: opacity, visibility, color;
-  transition-duration: 0.5s
+  //opacity: 0;
+  //transition-property: opacity, visibility, color;
+  //transition-duration: 0.5s
 }
 
 body.user article .readmore:hover {
@@ -605,7 +605,7 @@ body.user article .readmore:hover {
 }
 
 body.user article:hover .readmore {
-  opacity: 1;
+  //opacity: 1;
 }
 
 body.user article .text {

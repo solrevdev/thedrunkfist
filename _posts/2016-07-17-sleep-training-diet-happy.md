@@ -18,7 +18,7 @@ It would be fair to say that I am in the best shape physically and mentally for 
 
 ---
 
-![alt text](http://static.thedrunkfist.com.s3.amazonaws.com/blog/sleep/sleep_training_diet_happy_1.jpg, "sleep,training and diet make me happy")
+![alt text](http://static.thedrunkfist.com.s3.amazonaws.com/blog/sleep/sleep_training_diet_happy_1.jpg "sleep,training and diet make me happy")
 
 Career wise being a software developer has had its benefits and I love building software and learning new skills but it took its toll with the sedantary lifestyle, the insomnia and the booze to knock you out and get you to sleep. 
 

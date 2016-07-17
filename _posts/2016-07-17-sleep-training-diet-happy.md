@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Sleep,training and diet makes me happy"
-image:http://static.thedrunkfist.com.s3.amazonaws.com/blog/sleep/night_owls_are_smarter_1.jpg
-video:false
+image: http://static.thedrunkfist.com.s3.amazonaws.com/blog/sleep/night_owls_are_smarter_1.jpg
+video: false
 tags:
 - "#sleep"
 - "#training"
@@ -28,4 +28,4 @@ This training has also led to an improved diet and the physical exertion has als
 
 Now combine all these things and you could say I have never been happier!
 
-Keep going old man! Keep going!
+Keep going old man! Keep going

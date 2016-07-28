@@ -25,7 +25,8 @@ body_class: "home-template user"
           <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
         </header>
         <div class="text">
-          <p>{{ post.excerpt }}</p>
+          <p>{{ post.content | strip_html | truncatewords:75}}</p>
+
           <a href="{{ post.url | prepend: site.baseurl }}" class="readmore">Continue Reading</a>
         </div>
       </article>

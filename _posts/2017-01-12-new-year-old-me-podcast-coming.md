@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "new year - old me and thedrunkfist podcast coming soon"
-image: http://static.thedrunkfist.com.s3.amazonaws.com/blog/podcast/2017-01-12-thedrunkfist-podcast-0001.jpg_1.jpg
+image: http://static.thedrunkfist.com.s3.amazonaws.com/blog/podcast/2017-01-12-thedrunkfist-podcast-0001_1.jpg
 video: false
 tags:
 - "#podcast"
@@ -33,7 +33,7 @@ No dad diets or plans that I will fail at as so many New Years have started off 
 
 ---
 
-![alt text](http://static.thedrunkfist.com.s3.amazonaws.com/blog/podcast/2017-01-12-thedrunkfist-podcast-0001.jpg_1.jpg "A thedrunkfist podcast ")
+![alt text](http://static.thedrunkfist.com.s3.amazonaws.com/blog/podcast/2017-01-12-thedrunkfist-podcast-0001_1.jpg "A thedrunkfist podcast ")
 
 ---
 

@@ -329,11 +329,9 @@ body.user article .meta .count { margin-left: 34px; }
 
 body.user article time a { font-size: 14px; -webkit-text-size-adjust: none; }
 
-body.user article .readmore { display: inline-block; vertical-align: middle; zoom: 1; font-size: 13px; line-height: 1em; color: #a4adb6; border-bottom: 1px solid #ededee; box-shadow: white 0 0 14px; white-space: nowrap; opacity: 0; transition-property: opacity, visibility, color; transition-duration: 0.5s; }
+body.user article .readmore { display: inline-block; vertical-align: middle; zoom: 1; font-size: 13px; line-height: 1em; color: #a4adb6; border-bottom: 1px solid #ededee; box-shadow: white 0 0 14px; white-space: nowrap; }
 
 body.user article .readmore:hover { color: #21272d; }
-
-body.user article:hover .readmore { opacity: 1; }
 
 body.user article .text { position: relative; text-align: left; margin: 0 auto; padding-bottom: 80px; max-width: 680px; }
 

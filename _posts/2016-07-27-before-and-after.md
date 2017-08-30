@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Before and after"
-image: http://static.thedrunkfist.com.s3.amazonaws.com/blog/training/fatlad-to-now_1.jpg
+image: https://s3.amazonaws.com/static.thedrunkfist.com/blog/training/fatlad-to-now_1.jpg
 video: false
 tags:
 - "#sleep"
@@ -23,7 +23,7 @@ However, I lived a very sedentary lifestyle, and as you can see I was not in the
 
 ---
 
-![alt text](http://static.thedrunkfist.com.s3.amazonaws.com/blog/training/fatlad-to-now_1.jpg "before and after")
+![alt text](https://s3.amazonaws.com/static.thedrunkfist.com/blog/training/fatlad-to-now_1.jpg "before and after")
 
 ---
 

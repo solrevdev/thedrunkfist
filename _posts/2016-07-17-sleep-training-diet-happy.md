@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sleep,training and diet makes me happy"
-image: http://static.thedrunkfist.com.s3.amazonaws.com/blog/sleep/night_owls_are_smarter_1.jpg
+image: https://s3.amazonaws.com/static.thedrunkfist.com/blog/sleep/night_owls_are_smarter_1.jpg
 video: false
 tags:
 - "#sleep"
@@ -22,7 +22,7 @@ No, it has been improved sleep, a clean diet and lots of fun exercises that have
 
 ---
 
-![alt text](http://static.thedrunkfist.com.s3.amazonaws.com/blog/sleep/sleep_training_diet_happy_1.jpg "sleep,training and diet make me happy")
+![alt text](https://s3.amazonaws.com/static.thedrunkfist.com/blog/sleep/sleep_training_diet_happy_1.jpg "sleep,training and diet make me happy")
 
 ---
 

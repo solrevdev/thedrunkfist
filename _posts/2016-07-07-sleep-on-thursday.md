@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sleep on a Thursday"
-image: http://static.thedrunkfist.com.s3.amazonaws.com/blog/gyroscope/2016-07-08-sleep-data_1.jpg
+image: https://s3.amazonaws.com/static.thedrunkfist.com/blog/gyroscope/2016-07-08-sleep-data_1.jpg
 video: false
 ---
 

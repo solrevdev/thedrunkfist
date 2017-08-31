@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New personal best!"
-image: http://static.thedrunkfist.com.s3.amazonaws.com/blog/training/new-deadlift-pb_1.png
+image: https://s3.amazonaws.com/static.thedrunkfist.com/blog/training/new-deadlift-pb_1.png
 video: false
 tags:
 - "#pb"
@@ -29,7 +29,7 @@ I have even submitted a form to Twitter to verify my account to attain the blue 
 
 ---
 
-![alt text](http://static.thedrunkfist.com.s3.amazonaws.com/blog/training/new-deadlift-pb_1.png "A dead lift personal-best")
+![alt text](https://s3.amazonaws.com/static.thedrunkfist.com/blog/training/new-deadlift-pb_1.png "A dead lift personal-best")
 
 ---
 

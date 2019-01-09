@@ -4,7 +4,7 @@ rvm:
   - 2.3.1
   - ruby
 
-before_install:
+before_install:  
   - rvm install 2.3.1
   - rvm use 2.3.1
   - nvm install node
@@ -12,6 +12,8 @@ before_install:
   - npm update -g npm
 
 before_script:
+  - gem update --system
+  - gem install bundler
   - npm install -g gulp
   - npm install -g bower
   - gem install jekyll

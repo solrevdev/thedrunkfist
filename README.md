@@ -1,7 +1,9 @@
 # thedrunkfist
 
-### travis build status 
+### build status 
 [![Build Status](https://travis-ci.org/solrevdev/thedrunkfist.svg?branch=gh-pages)](https://travis-ci.org/solrevdev/thedrunkfist)
+
+[![CircleCI](https://circleci.com/gh/solrevdev/solrevdev.github.io.svg?style=svg)](https://circleci.com/gh/solrevdev/solrevdev.github.io)
 
 ### testing the site locally
 

@@ -3,6 +3,17 @@
 ### travis build status 
 [![Build Status](https://travis-ci.org/solrevdev/thedrunkfist.svg?branch=gh-pages)](https://travis-ci.org/solrevdev/thedrunkfist)
 
+### testing the site locally
+
+
+```shell
+gem install github-pages
+gem update github-pages
+jekyll build
+jekyll serve
+```
+Now open your browser and go to <http://localhost:4000>
+
 
 ### setup
 

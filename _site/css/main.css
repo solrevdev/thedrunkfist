@@ -155,7 +155,7 @@ html, body { height: 100%; max-height: 100%; margin: 0; font-size: 14px; color: 
 
 hr { border: none; height: 1px; margin: 0; padding: 0; background-color: #e5e5e5; }
 
-.btn { display: inline-block; vertical-align: middle; zoom: 1; padding: 20px 30px; margin: 0; background-color: #909396; color: #fff; font-weight: bold; border-radius: 50px; -webkit-tap-highlight-color: transparent; }
+.btn { display: inline-block; vertical-align: middle; zoom: 1; padding: 20px 30px; margin: 0; background-color: #909396; color: #fff; font-weight: bold; border-radius: 50px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 .btn:hover { background-color: #21272d; color: #fff; }
 
@@ -173,7 +173,7 @@ body > header h1 a { color: #21272d; }
 
 article { margin: 65px auto 0 auto; padding: 0 30px; max-width: 680px; text-align: left; }
 
-article #home_link { font-family: 'Pictos Custom'; color: #909396; margin-right: 10px; margin-top: -5px; font-size: 17px; line-height: 1em; padding: 5px 6px 3px 6px; border: 1px solid #ededee; border-radius: 20px; -webkit-tap-highlight-color: transparent; }
+article #home_link { font-family: 'Pictos Custom'; color: #909396; margin-right: 10px; margin-top: -5px; font-size: 17px; line-height: 1em; padding: 5px 6px 3px 6px; border: 1px solid #ededee; border-radius: 20px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 article #home_link:hover { color: #21272d; background-color: #ededee; }
 
@@ -419,7 +419,7 @@ body > footer #user_bio, .post-footer #user_bio { display: inline-block; vertica
 
 body > footer #user_bio .inner, .post-footer #user_bio .inner { padding-left: 20px; line-height: 1.6em; color: #a4adb6; }
 
-#blog_badge { position: absolute; display: block; top: 30px; right: 26px; width: 62px; height: 62px; background-color: #fff; border: 1px solid rgba(33, 39, 45, 0.17); border-radius: 60px; z-index: 3; transition: all 0.2s; -webkit-tap-highlight-color: transparent; -webkit-filter: grayscale(100%); filter: grayscale(100%); }
+#blog_badge { position: absolute; display: block; top: 30px; right: 26px; width: 62px; height: 62px; background-color: #fff; border: 1px solid rgba(33, 39, 45, 0.17); border-radius: 60px; z-index: 3; transition: all 0.2s; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); -webkit-filter: grayscale(100%); filter: grayscale(100%); }
 
 #blog_badge:hover { -webkit-filter: grayscale(0%); filter: grayscale(0%); }
 

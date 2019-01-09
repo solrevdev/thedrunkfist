@@ -4,11 +4,11 @@
     <title>The Drunk Fist</title>
     <description>The drunk fist is my progress from a drunken developer into a full time carer who has stopped smoking, stopped drinking and started to take up boxing, muay thai, bjj, mma and generally just trying to be better.
 </description>
-    <link>https://thedrunkfist.com/</link>
-    <atom:link href="https://thedrunkfist.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Aug 2017 22:35:56 +0100</pubDate>
-    <lastBuildDate>Wed, 30 Aug 2017 22:35:56 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 09 Jan 2019 10:51:32 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Jan 2019 10:51:32 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>new year - old me and thedrunkfist podcast coming soon</title>
@@ -48,8 +48,8 @@
 
 </description>
         <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
-        <link>https://thedrunkfist.com/2017/01/12/new-year-old-me-podcast-coming/</link>
-        <guid isPermaLink="true">https://thedrunkfist.com/2017/01/12/new-year-old-me-podcast-coming/</guid>
+        <link>http://localhost:4000/2017/01/12/new-year-old-me-podcast-coming/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/12/new-year-old-me-podcast-coming/</guid>
         
         <category>#podcast</category>
         
@@ -100,8 +100,8 @@
 
 </description>
         <pubDate>Tue, 30 Aug 2016 00:00:00 +0100</pubDate>
-        <link>https://thedrunkfist.com/2016/08/30/new-deadlift-pb/</link>
-        <guid isPermaLink="true">https://thedrunkfist.com/2016/08/30/new-deadlift-pb/</guid>
+        <link>http://localhost:4000/2016/08/30/new-deadlift-pb/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/08/30/new-deadlift-pb/</guid>
         
         <category>#pb</category>
         
@@ -143,8 +143,8 @@
 &lt;p&gt;Enjoy!&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Aug 2016 00:00:00 +0100</pubDate>
-        <link>https://thedrunkfist.com/2016/08/02/hit-fit/</link>
-        <guid isPermaLink="true">https://thedrunkfist.com/2016/08/02/hit-fit/</guid>
+        <link>http://localhost:4000/2016/08/02/hit-fit/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/08/02/hit-fit/</guid>
         
         <category>#sleep</category>
         
@@ -195,8 +195,8 @@
 
 </description>
         <pubDate>Sat, 30 Jul 2016 00:00:00 +0100</pubDate>
-        <link>https://thedrunkfist.com/2016/07/30/new-deadlift-pb/</link>
-        <guid isPermaLink="true">https://thedrunkfist.com/2016/07/30/new-deadlift-pb/</guid>
+        <link>http://localhost:4000/2016/07/30/new-deadlift-pb/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/30/new-deadlift-pb/</guid>
         
         <category>#pb</category>
         
@@ -243,8 +243,8 @@
 
 </description>
         <pubDate>Wed, 27 Jul 2016 00:00:00 +0100</pubDate>
-        <link>https://thedrunkfist.com/2016/07/27/before-and-after/</link>
-        <guid isPermaLink="true">https://thedrunkfist.com/2016/07/27/before-and-after/</guid>
+        <link>http://localhost:4000/2016/07/27/before-and-after/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/27/before-and-after/</guid>
         
         <category>#sleep</category>
         
@@ -290,8 +290,8 @@
 &lt;p&gt;Keep going old man! Keep going.&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Jul 2016 00:00:00 +0100</pubDate>
-        <link>https://thedrunkfist.com/2016/07/17/sleep-training-diet-happy/</link>
-        <guid isPermaLink="true">https://thedrunkfist.com/2016/07/17/sleep-training-diet-happy/</guid>
+        <link>http://localhost:4000/2016/07/17/sleep-training-diet-happy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/17/sleep-training-diet-happy/</guid>
         
         <category>#sleep</category>
         
@@ -323,8 +323,8 @@
 &lt;p&gt;Anyway, I feel rested and ready to start the day!&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Jul 2016 00:00:00 +0100</pubDate>
-        <link>https://thedrunkfist.com/2016/07/07/sleep-on-thursday/</link>
-        <guid isPermaLink="true">https://thedrunkfist.com/2016/07/07/sleep-on-thursday/</guid>
+        <link>http://localhost:4000/2016/07/07/sleep-on-thursday/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/07/sleep-on-thursday/</guid>
         
         
       </item>
@@ -350,8 +350,8 @@
 &lt;p&gt;While social media such as Facebook, Twitter and Instagram are great for short form content I wanted a website and blog where  longer form posts about my interests and progress could live and well, this is it.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 00:00:00 +0100</pubDate>
-        <link>https://thedrunkfist.com/2016/06/10/the-drunk-fist-website/</link>
-        <guid isPermaLink="true">https://thedrunkfist.com/2016/06/10/the-drunk-fist-website/</guid>
+        <link>http://localhost:4000/2016/06/10/the-drunk-fist-website/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/06/10/the-drunk-fist-website/</guid>
         
         
       </item>

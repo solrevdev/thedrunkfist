@@ -1,4 +1,4 @@
 User-Agent: *
-Disallow: 
+Disallow:
 
-Sitemap: http://thedrunkfist.com/sitemap.xml
+Sitemap: https://thedrunkfist.com/sitemap.xml

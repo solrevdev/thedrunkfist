@@ -1,0 +1,26 @@
+name: ci
+
+on:
+  push:
+    branches: [master, gh-pages]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+          bundler-cache: true
+
+      # Builds with the github-pages gem set, the same one GitHub Pages runs,
+      # then checks the output for broken internal links and images.
+      # External links stay off: they fail for reasons that are not our bugs.
+      - run: ./script/cibuild

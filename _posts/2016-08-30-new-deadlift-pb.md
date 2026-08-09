@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "New personal best!"
 image: https://s3.amazonaws.com/static.thedrunkfist.com/blog/training/new-deadlift-pb_1.png
 video: false

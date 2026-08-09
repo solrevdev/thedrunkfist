@@ -3,11 +3,11 @@
   {% include head.html %}
   <body class="{{ page.body_class }}">
     {{ content }}
-    {{ if site.logo}}
+    {% if site.logo %}
     <a href="{{ site.url }}/about" id="blog_badge">
-      <span style="background-image: url('{{ site.logo }}')">{{ site.name }}</span>
+      <span style="background-image: url('{{ site.logo }}')">{{ site.title }}</span>
     </a>
-    {{/if}}
+    {% endif %}
     <script src="{{ '/assets/javascripts/jquery.min.js' }}"></script>
     <script src="{{ '/assets/javascripts/main.js'  }}"></script>
 

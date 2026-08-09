@@ -1,70 +1,57 @@
 # thedrunkfist
 
-### build status 
-[![Build Status](https://travis-ci.org/solrevdev/thedrunkfist.svg?branch=gh-pages)](https://travis-ci.org/solrevdev/thedrunkfist) [![CircleCI](https://circleci.com/gh/solrevdev/thedrunkfist.svg?style=svg)](https://circleci.com/gh/solrevdev/thedrunkfist)
+### build status
 
-### testing the site locally
+[![ci](https://github.com/solrevdev/thedrunkfist/actions/workflows/ci.yml/badge.svg)](https://github.com/solrevdev/thedrunkfist/actions/workflows/ci.yml)
 
+### running the site locally
 
-```shell
-gem install github-pages
-gem update github-pages
-jekyll build
-jekyll serve
-```
-Now open your browser and go to <http://localhost:4000>
-
-
-### setup
+Needs Ruby 3.4 and Bundler 2.7 or newer.
 
 ```shell
-gem install bundler
 bundle install
 bundle exec jekyll serve
-
 ```
 
+Now open <http://localhost:4000>.
 
-### jekyll commands used to get setup
+### build and check
+
+`script/cibuild` is what CI runs. It builds the site and checks the output
+for broken internal links and images.
 
 ```shell
-sudo chown -R $(whoami) /usr/local
-
-sudo chown -R $(whoami) /Library/Ruby
-
-brew install ruby
-
-gem install bundler
-
-gem install rouge
-
-gem update --system
-
-sudo gem cleanup
-
-bundle install
-
-bundle exec jekyll serve
-
+./script/cibuild
 ```
 
-### travis and github custom domain resources
+External link checking stays off. It fails for reasons that have nothing to
+do with this repo.
 
-* http://sgoettschkes.me/p/deploying-a-jekyll-website-to-github-pages-using-travisci.html
-* http://intenseagile.com/2015/04/27/running-jekyll-on-codeanywhere.html
-* http://www.steveklabnik.com/automatically_update_github_pages_with_travis_example/
-* http://awestruct.org/auto-deploy-to-github-pages/
-* https://github.com/mbonaci/mbo-storm/wiki/Integrate-Travis-CI-with-your-GitHub-repo
-* https://travis-ci.org/profile/solrevdev
-* https://docs.travis-ci.com/user/for-beginners
-* https://docs.travis-ci.com/user/getting-started/
-* https://help.github.com/articles/troubleshooting-custom-domains/#dns-configuration-errors
-* https://help.github.com/articles/setting-up-a-www-subdomain/
-* https://tinypress.co/settings
-* https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
-* https://github.com/solrevdev/solrevdev.github.io
-* https://dnsimple.com/dashboard
-* https://help.github.com/articles/troubleshooting-jekyll-builds/
+### posts
+
+The 2016 and 2017 posts are still in `_posts/`, each with `published: false`
+in its front matter. Jekyll skips them, so they stay out of the site, the
+archive and the feed while the copy, markup and image URLs stay in the repo.
+
+To bring one back, delete its `published: false` line.
+
+### publishing
+
+GitHub Pages builds this site from the `gh-pages` branch, not `master`.
+Work lands on `master` first, then goes live with:
+
+```shell
+git push origin master:gh-pages
+```
+
+### dependencies
+
+GitHub Pages builds with its own pinned gem set, so `Gemfile` tracks the
+`github-pages` gem to keep local builds honest. Jekyll 3.9.3 expects `base64`,
+`bigdecimal`, `csv` and `logger` in the standard library; Ruby 3.4 dropped them
+from the default gems, so the `Gemfile` names them.
+
+`_site/` is build output and is not tracked.
 * https://gist.github.com/razor-x/8166421
 * https://github.com/mfenner/jekyll-travis
 

@@ -9,6 +9,7 @@ ehthumbs.db
 Desktop.ini
 
 # Jekyll build output (local only)
+_site/
 .jekyll-cache/
 .jekyll-metadata
 

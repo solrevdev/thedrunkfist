@@ -1,6 +1,13 @@
 ---
 layout: default
 body_class: "home-template user"
+# /page2/ existed while there were enough published posts to paginate. Hiding
+# the 2016 and 2017 posts collapsed pagination to one page, so Google kept
+# crawling a 404. Send it here instead.
+# Trap: publish enough posts again and jekyll-paginate will want to write
+# /page2/ too. Drop this redirect_from at the same time or the two collide.
+redirect_from:
+  - /page2/
 ---
 
 {% include header.html %}
